@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1696829993 source:c:\users\user\desktop\facultad\biblioteca\augustocode\main.c
+	<stdio.h>
+	<stdlib.h>
+	<wchar.h>
+	<locale.h>
+	<time.h>
+	<unistd.h>
+	<string.h>
+
